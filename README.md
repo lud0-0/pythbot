@@ -1,5 +1,5 @@
-![Variation](https://raw.githubusercontent.com/lud0-0/pythbot/master/pythlogo.png) 
-
+![Variation](https://raw.githubusercontent.com/lud0-0/pythbot/master/pythlogo.png)
+## Pyth The Simple Bot  
 ## Downloading depencies
 #### Python 3.6 
 You may need to use Python 3.6 or older to avoid errors with "asyncio"
