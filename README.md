@@ -14,6 +14,8 @@ https://www.python.org/downloads/release/python-365/
 ##### If successful:  
 > Bot is connected to Discord
 ###
+##  
+##  
 ## Say "Pyth" in chat to get his attention
 Pyth's answer has variation  
 ![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary1.png)  
