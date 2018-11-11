@@ -17,6 +17,6 @@ https://www.python.org/downloads/release/python-365/
 ## Say "Pyth" in chat to get his attention
 Pyth's answer has variation  
 ![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary1.png)  
-![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary2.png)
+![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary2.jpg)
 ## Commands
 ![Commands](https://raw.githubusercontent.com/ludzero/pythbot1/master/commandspyth.PNG)
