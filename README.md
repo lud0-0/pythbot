@@ -16,7 +16,7 @@ If pip doesn't work, watch this video for help https://www.youtube.com/watch?v=m
 https://discordapp.com/developers/applications/
 Go to the link below above then:  
 *  Click Create new application and name it: *Pyth*  
-*  Download the icon and upload it to the bot https://raw.githubusercontent.com/lud0-0/pythbot/master/pythlogo.png
+*  Download the icon and upload it to the bot https://github.com/lud0-0/pythbot/blob/master/pythlogo.png
 *  Get your client secret by clicking *Click to reveal* and then paste it at the bottom in the pythbot.py file 
 ### Run Pyth 
 #### In Linux to run bot (Python 3.5)
