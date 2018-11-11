@@ -14,10 +14,14 @@ To use this bot you will need to install the API wrapper discord.py
 If pip doesn't work, watch this video for help https://www.youtube.com/watch?v=mFqdeX1C-8M*
 ### Discord Bot Application
 https://discordapp.com/developers/applications/
-Go to the link below above then:  
+Copy and go to the link above then:  
 *  Click Create new application and name it: *Pyth*  
-*  Download the icon and upload it to the bot https://github.com/lud0-0/pythbot/blob/master/pythlogo.png
 *  Get your client secret by clicking *Click to reveal* and then paste it at the bottom in the pythbot.py file 
+*  Go to the Bot page in the side bar and click "Add bot"
+*  Download the icon and upload it to the bot https://github.com/lud0-0/pythbot/blob/master/pythlogo.png
+*  Further down that page give the bot Admin permissions 
+*  On the OAuth2 page at scopes, select bot, then ad Admin permissions there too.
+*  Copy the link on the same page (OAuth2) then add the bot to your server of choice
 ### Run Pyth 
 #### In Linux to run bot (Python 3.5)
 > $ python3.5 ./pythbot.py
