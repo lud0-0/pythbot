@@ -20,7 +20,7 @@ Copy and go to the link above then:
 *  Go to the Bot page in the side bar and click "Add bot"
 *  Download the icon and upload it to the bot https://github.com/lud0-0/pythbot/blob/master/pythlogo.png
 *  Further down that page give the bot Admin permissions 
-*  On the OAuth2 page at scopes, select bot, then ad Admin permissions there too.
+*  On the OAuth2 page at scopes, select bot, then ad Admin permissions there too
 *  Copy the link on the same page (OAuth2) then add the bot to your server of choice
 ### Run Pyth 
 #### In Linux to run bot (Python 3.5)
