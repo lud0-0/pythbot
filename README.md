@@ -8,7 +8,7 @@ https://www.python.org/downloads/release/python-365/
 ### discord.py
 To use this bot you will need to install the API wrapper discord.py  
 #### Follow the commands below or read the full instructions on https://github.com/Rapptz/discord.py  
-NOTE: If pip doesn't work, watch this video for help https://www.youtube.com/watch?v=mFqdeX1C-8M*  
+NOTE: If pip doesn't work, watch this video for help https://www.youtube.com/watch?v=mFqdeX1C-8M  
 > pip install discord.py  
 > pip3 install discord.py
 #
