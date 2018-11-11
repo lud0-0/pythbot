@@ -13,7 +13,7 @@ NOTE: If pip doesn't work, watch this video for help https://www.youtube.com/wat
 > pip3 install discord.py
 #
 ### The Python bot file
-Click the link to download the pythbot.py file and the icon https://github.com/lud0-0/pythbot/archive/master.zip0/pythbot/master/pythbot.py
+Click the link to download the pythbot.py file and the icon at the top of this page
 ### Create Discord Bot Application
 https://discordapp.com/developers/applications/
 Copy and go to the link above then:  
