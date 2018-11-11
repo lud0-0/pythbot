@@ -1,12 +1,16 @@
 ![Variation](https://raw.githubusercontent.com/lud0-0/pythbot/master/pythlogo.png)
 ## Pyth The Simple Bot  
-## Downloading depencies
-#### Python 3.6 
+### Downloading depencies
+### Python 3.6 
 You may need to use Python 3.6 or older to avoid errors with "asyncio"
 https://www.python.org/downloads/release/python-365/
 #
-
-
+### discord.py
+To use this bot you will need to install the API wrapper discord.py  
+#### Follow the commands below or read the full instructions on https://github.com/Rapptz/discord.py  
+> pip install discord.py  
+> pip3 install discord.py
+#
 ### Run Pyth 
 #### In Linux to run bot (Python 3.5)
 > $ python3.5 ./pythbot.py
