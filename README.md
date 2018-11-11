@@ -13,14 +13,14 @@ NOTE: If pip doesn't work, watch this video for help https://www.youtube.com/wat
 > pip3 install discord.py
 #
 ### The Python bot file
-Make a pythbot.bot file on your computer then paste the following code: https://raw.githubusercontent.com/lud0-0/pythbot/master/pythbot.py
+Click the link to download the pythbot.py file and the icon https://github.com/lud0-0/pythbot/archive/master.zip0/pythbot/master/pythbot.py
 ### Create Discord Bot Application
 https://discordapp.com/developers/applications/
 Copy and go to the link above then:  
 *  Click Create new application and name it: *Pyth*  
 *  Get your client secret by clicking *Click to reveal* and then paste it at the bottom in the pythbot.py file 
 *  Go to the Bot page in the side bar and click "Add bot"
-*  Download the icon and upload it to the bot https://github.com/lud0-0/pythbot/blob/master/pythlogo.png
+*  Upload the icon that you downloaded earlier to the bot https://github.com/lud0-0/pythbot/blob/master/pythlogo.png
 *  Further down that page give the bot Admin permissions 
 *  On the OAuth2 page at scopes, select bot, then ad Admin permissions there too
 *  Copy the link on the same page (OAuth2) then add the bot to your server of choice
