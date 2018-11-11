@@ -35,7 +35,7 @@ Copy and go to the link above then:
 ###
 ##  
 ##  
-## Say "Pyth" in chat to get his attention
+## Say "Pyth" in chat to get its attention
 Pyth's answer has variation  
 ![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary1.png)  
 ![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary2.jpg)
