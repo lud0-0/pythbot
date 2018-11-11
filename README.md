@@ -11,7 +11,7 @@ To use this bot you will need to install the API wrapper discord.py
 > pip install discord.py  
 > pip3 install discord.py  
 #
-If pip doesn't work, watch this video for help https://www.youtube.com/watch?v=mFqdeX1C-8M*
+NOTE: If pip doesn't work, watch this video for help https://www.youtube.com/watch?v=mFqdeX1C-8M*
 ### Discord Bot Application
 https://discordapp.com/developers/applications/
 Copy and go to the link above then:  
