@@ -10,7 +10,6 @@ To use this bot you will need to install the API wrapper discord.py
 #### Follow the commands below or read the full instructions on https://github.com/Rapptz/discord.py  
 > pip install discord.py  
 > pip3 install discord.py  
-#
 NOTE: If pip doesn't work, watch this video for help https://www.youtube.com/watch?v=mFqdeX1C-8M*
 #
 ### The Python bot file
