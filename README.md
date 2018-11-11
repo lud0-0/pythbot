@@ -11,6 +11,11 @@ To use this bot you will need to install the API wrapper discord.py
 > pip install discord.py  
 > pip3 install discord.py
 #
+### Discord Bot Application
+https://discordapp.com/developers/applications/
+Go to the link below above then:  
+*  Click Create new application and name it: *Pyth*  
+*  Download the icon and upload it to the bot https://raw.githubusercontent.com/lud0-0/pythbot/master/pythlogo.png
 ### Run Pyth 
 #### In Linux to run bot (Python 3.5)
 > $ python3.5 ./pythbot.py
