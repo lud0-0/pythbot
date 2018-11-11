@@ -1,4 +1,4 @@
-![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/pyth.png) 
+![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/pythlogo.png) 
 
 ## Downloading depencies
 #### Python 3.6 
