@@ -7,4 +7,4 @@
 Pyth's answer has variation  
 ![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary.PNG)
 ## Commands
-![Commands](https://raw.githubusercontent.com/ludzero/pythbot1/master/pythcommands.PNG)
+![Commands](https://raw.githubusercontent.com/ludzero/pythbot1/master/commandspyth.PNG)
