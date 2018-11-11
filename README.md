@@ -1,6 +1,17 @@
-### In linux to run bot
-> $ python3.5 ./pythbot.py  
-#### if successful:  
+## Downloading depencies
+#### Python 3.6 
+You may need to use Python 3.6 to avoid errors with "asyncio"
+https://www.python.org/downloads/release/python-365/
+#
+
+
+### Run Pyth 
+#### In Linux to run bot
+> $ python3.5 ./pythbot.py
+#### In Windows to run bot 
+> C:\Users\Admin\AppData\Local\Programs\Python\Python36\python.exe C:\Users\Admin\Desktop\pythbot.py  
+##### location may vary on where you have Python and the pythbot.py file stored*
+##### if successful:  
 > Bot is connected to Discord
 ###
 ## Say "Pyth" in chat to get his attention
