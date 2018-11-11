@@ -1,12 +1,12 @@
 ## Downloading depencies
 #### Python 3.6 
-You may need to use Python 3.6 to avoid errors with "asyncio"
+You may need to use Python 3.6 or older to avoid errors with "asyncio"
 https://www.python.org/downloads/release/python-365/
 #
 
 
 ### Run Pyth 
-#### In Linux to run bot
+#### In Linux to run bot (Python 3.5)
 > $ python3.5 ./pythbot.py
 #### In Windows to run bot 
 > C:\Users\Admin\AppData\Local\Programs\Python\Python36\python.exe C:\Users\Admin\Desktop\pythbot.py  
