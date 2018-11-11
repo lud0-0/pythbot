@@ -1,5 +1,5 @@
 ![Variation](https://raw.githubusercontent.com/lud0-0/pythbot/master/pythlogo.png)
-## Pyth The Simple Bot  
+## Pyth, The Simple Discord Bot  
 ### Downloading depencies
 ### Python 3.6 
 You may need to use Python 3.6 or older to avoid errors with "asyncio"
@@ -28,3 +28,6 @@ Pyth's answer has variation
 ![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary2.jpg)
 ## Commands
 ![Commands](https://raw.githubusercontent.com/ludzero/pythbot1/master/commandspyth.PNG)
+#
+#
+*Remember, this bot is just in a beta stage and will be updated constantly will more improvements*
