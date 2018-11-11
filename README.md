@@ -40,7 +40,7 @@ Pyth's answer has variation
 ![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary1.png)  
 ![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/vary2.jpg)
 ## Commands
-![Commands](https://raw.githubusercontent.com/ludzero/pythbot1/master/commandspyth.PNG)
+![Commands](http://www.nachopi.com/commandspyth.png)
 #
 ### Bad words that upset Pyth
 You can add more words that Pyth detects in the *chat_filter* list  
