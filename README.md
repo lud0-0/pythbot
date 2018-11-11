@@ -1,3 +1,5 @@
+![Variation](https://raw.githubusercontent.com/ludzero/pythbot1/master/pyth.png) 
+
 ## Downloading depencies
 #### Python 3.6 
 You may need to use Python 3.6 or older to avoid errors with "asyncio"
