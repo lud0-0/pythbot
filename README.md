@@ -43,7 +43,7 @@ Pyth's answer has variation
 ![Commands](http://www.nachopi.com/commandspyth.png)
 #
 ### Bad words that upset Pyth
-You can add more words that Pyth detects in the *chat_filter* list on row 10 
+You can add more words that Pyth detects in the *chat_filter* list on row 10   
 ![badwords](http://www.nachopi.com/chatfilter.png)
 #
 *Remember, this bot is just in a beta stage and will be updated constantly will more improvements*
