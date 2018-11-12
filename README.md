@@ -18,7 +18,7 @@ Click the link to download the pythbot.py file and the icon at the top of this p
 https://discordapp.com/developers/applications/
 Copy and go to the link above then:  
 *  Click Create new application and name it: *Pyth*  
-*  Get your client secret by clicking *Click to reveal* and then paste it at the bottom in the pythbot.py file 
+*  Get your client secret by clicking *Click to reveal* on bot page and then paste it at the bottom in the pythbot.py file 
 *  Go to the Bot page in the side bar and click "Add bot"
 *  Upload the icon that you downloaded earlier to the bot https://github.com/lud0-0/pythbot/blob/master/pythlogo.png
 *  Further down that page give the bot Admin permissions 
