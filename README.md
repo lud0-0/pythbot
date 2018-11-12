@@ -40,10 +40,13 @@ Pyth's answer has variation
 ![Variation](http://www.nachopi.com/vary1.png)  
 ![Variation](http://www.nachopi.com/vary2.jpg)
 ## Commands
-![Commands](http://www.nachopi.com/commandspyth.png)
+![NEWCOMMANDS1.0.2](http://www.nachopi.com/commandspyth1.0.2.png)
 #
 ### Bad words that upset Pyth
 You can add more words that Pyth detects in the *chat_filter* list on row 10   
 ![badwords](http://www.nachopi.com/chatfilter.png)
 #
-*Remember, this bot is just in a beta stage and will be updated constantly will more improvements*
+#### More lifelike in 1.0.2
+![lifelike](http://www.nachopi.com/giraffe.png)
+#
+*Remember, this bot will be updated constantly will more improvements*
